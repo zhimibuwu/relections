@@ -1,0 +1,1 @@
+If a previous version worked, then you can say that the bugs are introduced through recent operations, and that’s the difference between the two versions.
